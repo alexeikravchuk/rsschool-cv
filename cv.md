@@ -1,0 +1,40 @@
+# ALEXEI KRAVCHUK
+
+Phone:  +375 44 737 69 24
+
+Email: alexei.kravchuk21@gmail.com
+
+Skype: lyoha-kravtchuk	
+ 
+Linkedin: https://www.linkedin.com/in/alexei-kravchuk-a1b69114a/
+
+## Summary:
+I’m hard-working individual with proficiency in HTML, JavaScript, and CSS, as well as ability to communicate effectively in a team setting. I studied on my own, as well as in "Educational Center for Programming and High Tech" on the course "Web applications development in JavaScript". I’m ready to further develop my knowledge and skills in web development.
+
+## Skills:
+Programming Languages: JavaScript , Java (basic), HTML5, CSS3, SQL
+IDE: Webstorm, Sublime, VS Code
+Source Control: Git
+API/Frameworks: jQuery, Canvas, SVG, Ajax, fetch, JSON
+OS: Windows, Linux, Android
+English level: Pre-Intermediate
+
+## Education:
+### October 2019 – February 2020 – Educational Center for Programming and High Tech (IT-Academy)
+Course: Front-end Developer
+Description: OOP, ECMAScript 6, work with DOM, event handling, SVG, Canvas, render tree, JSON, SPA,  jQuery: Templates, Validation, AJAX, events,  UI.
+### 2009 - 2014 – Belarusian State University of Informatics and Radioelectronics
+Faculty of Computer-Aided Design. Electron-Optical Systems And Technologies
+
+## Work experience:
+#### October 2019 – present time, Trainee, Educational Center of High-Tech Park
+Project role: Front-end Developer
+Project description: Cross-browser web application, game “Rhythm”. 
+Used tools: App has been developed using following stack of technologies: HTML, CSS, JQuery, AJAX. Application code has been created with MVC architectural design pattern.
+Link: https://github.com/alekseykravtchuk/alekseykravtchuk.github.io/tree/master/the_rhythm
+
+#### 2014-2020 – JSC "INTEGRAL"
+Engineer-technologist of assembly of integrated circuits. "Semiconductor Device Factory" Branch.
+•	I introduced into production new high-tech equipment for the entire assembly cycle of integrated circuits.
+•	New technological processes have been developed that significantly reduced production costs.
+•	As a result of my work, it became possible to reduce the consumption of precious metals to 40% per unit of output.
