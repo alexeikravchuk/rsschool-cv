@@ -1,8 +1,11 @@
 # ALEXEI KRAVCHUK
 
 Phone:  +375 44 737 69 24
+
 Email: alexei.kravchuk21@gmail.com
+
 Skype: lyoha-kravtchuk	
+ 
 Linkedin: https://www.linkedin.com/in/alexei-kravchuk-a1b69114a/
 
 ## Summary:
