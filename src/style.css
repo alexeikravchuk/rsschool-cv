@@ -3,7 +3,6 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   margin: 0;
   padding: 0;
-  background: #e6e7e9;
   max-width: 100vw;
 }
 
@@ -16,13 +15,15 @@ body {
 
 header.header {
   display: flex;
-  justify-content: space-between;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .photo {
-  display: block;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   width: 320px;
-  margin: 10px;
   padding: 10px;
   background: #eeeeee;
 }
@@ -30,7 +31,7 @@ header.header {
 .contacts {
   display: block;
   padding: 10px;
-  width: calc(100% - 340px);
+  min-width: 300px;
 }
 
 .cv-section {
