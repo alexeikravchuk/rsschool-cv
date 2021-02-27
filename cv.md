@@ -9,11 +9,11 @@ Skype: lyoha-kravtchuk
 Linkedin: https://www.linkedin.com/in/alexei-kravchuk-a1b69114a/
 
 ## Summary:
-I’m hard-working individual with proficiency in HTML, JavaScript, and CSS, as well as ability to communicate effectively in a team setting. I studied on my own, as well as in "Educational Center for Programming and High Tech" on the course "Web applications development in JavaScript". I’m ready to further develop my knowledge and skills in web development.
+I started learning JavaScript at the "Educational Center for Programming and High Tech" in the "JavaScript Web Development" course. Then I successfully completed JS / Front-end and ReactJS (with TypeScript) courses at The Rolling Scopes School. Now I am developing Playable Ads, and I am ready to further develop my knowledge and skills in web development.
 
 ## Skills:
 Languages: JavaScript , Java (basic), HTML, CSS, SQL
-IDE: VS Code, Webstorm
+IDE: VS Code, Webstorm, Cocos Creator
 Source Control: Git
 API/Frameworks: React, Fetch, RESTful, Canvas, WebGl
 OS: Windows, Linux, Android
